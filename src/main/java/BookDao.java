@@ -9,5 +9,5 @@ public interface BookDao {
 
     Book getBookById(int bookId);
 
-    List<Book> getallBooks();
+    List<Book> getAllBooks();
 }
